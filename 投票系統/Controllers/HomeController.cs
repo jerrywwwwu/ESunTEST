@@ -13,9 +13,11 @@ namespace VoteOnline.Controllers {
         }
 
         public ActionResult Index () {
+            var Users = _context.Users.ToList();
             var VoteRecord = _context.VoteRecords.ToList();
             var VoteItem = _context.VoteItems.ToList();
-            var votecount = _context.VoteCountsViews.ToList();
+            var votecount = _context.VoteItemCounts.ToList();
+            ViewBag.User = Users;
             ViewBag.VoteCount = votecount;
             ViewBag.voteitem = VoteItem;
             ViewBag.VoteRecord = VoteRecord;

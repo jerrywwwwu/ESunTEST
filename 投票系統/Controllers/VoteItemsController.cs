@@ -27,7 +27,7 @@ namespace VoteOnline.Controllers
         }
 
         // GET: VoteItems/Details/5
-        public async Task<IActionResult> Details(string id)
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.VoteItems == null)
             {
@@ -67,7 +67,7 @@ namespace VoteOnline.Controllers
         }
 
         // GET: VoteItems/Edit/5
-        public async Task<IActionResult> Edit(string id)
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.VoteItems == null)
             {
@@ -87,7 +87,7 @@ namespace VoteOnline.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(string id, [Bind("VoteItemId,ItemName")] VoteItem voteItem)
+        public async Task<IActionResult> Edit(int id, [Bind("VoteItemId,ItemName")] VoteItem voteItem)
         {
             if (id != voteItem.VoteItemId)
             {
@@ -118,7 +118,7 @@ namespace VoteOnline.Controllers
         }
 
         // GET: VoteItems/Delete/5
-        public async Task<IActionResult> Delete(string id)
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.VoteItems == null)
             {
@@ -138,7 +138,7 @@ namespace VoteOnline.Controllers
         // POST: VoteItems/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(string id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
             if (_context.VoteItems == null)
             {
@@ -154,7 +154,7 @@ namespace VoteOnline.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        private bool VoteItemExists(string id)
+        private bool VoteItemExists(int id)
         {
           return (_context.VoteItems?.Any(e => e.VoteItemId == id)).GetValueOrDefault();
         }

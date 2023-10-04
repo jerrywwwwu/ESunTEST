@@ -48,7 +48,7 @@ namespace VoteOnline.Controllers
         public IActionResult Create()
         {
             ViewData["VoteItemId"] = new SelectList(_context.VoteItems, "VoteItemId", "ItemName");
-            return View();
+            return RedirectToAction ("Index","Home");
         }
 
         // POST: VoteRecords/Create
@@ -62,7 +62,7 @@ namespace VoteOnline.Controllers
             {
                 _context.Add(voteRecord);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction ("Index", "Home"); ;
             }
             ViewData["VoteItemId"] = new SelectList(_context.VoteItems, "VoteItemId", "ItemName", voteRecord.VoteItemId);
             return View(voteRecord);

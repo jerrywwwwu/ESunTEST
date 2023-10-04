@@ -5,15 +5,9 @@ using System.Collections.Generic;
 
 namespace VoteOnline.Models;
 
-public partial class VoteRecord
+public partial class User
 {
-    public int VoteId { get; set; }
-
     public string UserName { get; set; }
 
-    public int VoteItemId { get; set; }
-
-    public virtual User UserNameNavigation { get; set; }
-
-    public virtual VoteItem VoteItem { get; set; }
+    public virtual ICollection<VoteRecord> VoteRecords { get; set; } = new List<VoteRecord>();
 }

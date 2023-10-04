@@ -1,20 +1,29 @@
 ﻿@model VoteOnline.Models.VoteRecord
-
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 @{
+    
     ViewData["Title"] = "Create";
 }
 
 <h1>Create</h1>
 
 <h4>VoteRecord</h4>
-<hr />
+<select class="form-control" id="voter" name="voter">
+    @*            @foreach (var item in Users) {
+    <option value="@item.UserName">@item.UserName</option>
+    }*@
+    <option value="Leo">Leo</option>
+    <option value="Randy">Randy</option>
+    <option value="RSY">RSY</option>
+    <option value="Sandy">Sandy</option>
+</select>
 <div class="row">
     <div class="col-md-4">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="UserName" class="control-label"></label>
-                <input asp-for="UserName" class="form-control" />
+                <input asp-for="UserName" id="name" class="form-control" value="" />
                 <span asp-validation-for="UserName" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -27,7 +36,15 @@
         </form>
     </div>
 </div>
+<script>
+    changevalue();
+    function changevalue() {
+        document.getElementById("name").value = document.getElementById("voter").value;
+    }
 
+    // 监听下拉选项的变化事件
+    document.getElementById("voter").addEventListener("change", changevalue);
+</script>
 <div>
     <a asp-action="Index">Back to List</a>
 </div>

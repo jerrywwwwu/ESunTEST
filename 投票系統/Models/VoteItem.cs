@@ -7,7 +7,7 @@ namespace VoteOnline.Models;
 
 public partial class VoteItem
 {
-    public string VoteItemId { get; set; }
+    public int VoteItemId { get; set; }
 
     public string ItemName { get; set; }
 

@@ -13,33 +13,38 @@ public partial class VoteOnlineContext : DbContext
     {
     }
 
-    public virtual DbSet<VoteCountsView> VoteCountsViews { get; set; }
+    public virtual DbSet<User> Users { get; set; }
 
     public virtual DbSet<VoteItem> VoteItems { get; set; }
+
+    public virtual DbSet<VoteItemCount> VoteItemCounts { get; set; }
 
     public virtual DbSet<VoteRecord> VoteRecords { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<VoteCountsView>(entity =>
+        modelBuilder.Entity<User>(entity =>
         {
-            entity
-                .HasNoKey()
-                .ToView("VoteCountsView");
+            entity.HasKey(e => e.UserName).HasName("PK__Users__C9F28457B7A15071");
 
-            entity.Property(e => e.ItemName)
-                .IsRequired()
-                .HasMaxLength(10);
-            entity.Property(e => e.VoteItemId)
-                .IsRequired()
-                .HasMaxLength(10);
+            entity.Property(e => e.UserName).HasMaxLength(10);
         });
 
         modelBuilder.Entity<VoteItem>(entity =>
         {
-            entity.HasKey(e => e.VoteItemId).HasName("PK__VoteItem__04803B287FC4EE91");
+            entity.HasKey(e => e.VoteItemId).HasName("PK__VoteItem__04803B288E96E315");
 
-            entity.Property(e => e.VoteItemId).HasMaxLength(50);
+            entity.Property(e => e.ItemName)
+                .IsRequired()
+                .HasMaxLength(10);
+        });
+
+        modelBuilder.Entity<VoteItemCount>(entity =>
+        {
+            entity
+                .HasNoKey()
+                .ToView("VoteItemCounts");
+
             entity.Property(e => e.ItemName)
                 .IsRequired()
                 .HasMaxLength(10);
@@ -47,22 +52,23 @@ public partial class VoteOnlineContext : DbContext
 
         modelBuilder.Entity<VoteRecord>(entity =>
         {
-            entity.HasKey(e => e.VoteId).HasName("PK__VoteReco__52F015C287364848");
+            entity.HasKey(e => e.VoteId).HasName("PK__VoteReco__52F015C2F7F2717B");
 
             entity.Property(e => e.UserName)
                 .IsRequired()
                 .HasMaxLength(10);
-            entity.Property(e => e.VoteItemId)
-                .IsRequired()
-                .HasMaxLength(50);
+
+            entity.HasOne(d => d.UserNameNavigation).WithMany(p => p.VoteRecords)
+                .HasForeignKey(d => d.UserName)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__VoteRecor__UserN__286302EC");
 
             entity.HasOne(d => d.VoteItem).WithMany(p => p.VoteRecords)
                 .HasForeignKey(d => d.VoteItemId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__VoteRecor__VoteI__267ABA7A");
+                .HasConstraintName("FK__VoteRecor__VoteI__29572725");
         });
 
-        OnModelCreatingGeneratedProcedures(modelBuilder);
         OnModelCreatingPartial(modelBuilder);
     }
 

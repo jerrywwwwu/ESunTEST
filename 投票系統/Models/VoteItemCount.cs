@@ -5,9 +5,9 @@ using System.Collections.Generic;
 
 namespace VoteOnline.Models;
 
-public partial class VoteCountsView
+public partial class VoteItemCount
 {
-    public string VoteItemId { get; set; }
+    public int VoteItemId { get; set; }
 
     public string ItemName { get; set; }
 

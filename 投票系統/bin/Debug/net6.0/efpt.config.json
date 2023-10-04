@@ -16,6 +16,10 @@
    "T4TemplatePath": null,
    "Tables": [
       {
+         "Name": "[dbo].[Users]",
+         "ObjectType": 0
+      },
+      {
          "Name": "[dbo].[VoteItems]",
          "ObjectType": 0
       },
@@ -24,12 +28,8 @@
          "ObjectType": 0
       },
       {
-         "Name": "[dbo].[VoteCountsView]",
+         "Name": "[dbo].[VoteItemCounts]",
          "ObjectType": 3
-      },
-      {
-         "Name": "[dbo].[GetVoteCounts]",
-         "ObjectType": 1
       }
    ],
    "UiHint": "desktop-vq280hc.VoteOnline.dbo",

@@ -25,9 +25,9 @@
                 @Html.DisplayFor(modelItem => item.ItemName)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.VoteItemId">編輯投票項目</a>
+                    <a asp-action="Edit" asp-route-id="@item.VoteItemId">編輯投票項目</a> |
 
-                <a asp-action="Delete" asp-route-id="@item.VoteItemId">刪除投票項目</a>
+                    <a asp-action="Delete" asp-route-id="@item.VoteItemId">刪除投票項目</a>
             </td>
         </tr>
 }
