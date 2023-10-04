@@ -1,0 +1,35 @@
+﻿@model IEnumerable<VoteOnline.Models.VoteItem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>後台</h1>
+
+<p>
+    <a asp-action="Create">新增投票項目</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                項目
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ItemName)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VoteItemId">編輯投票項目</a>
+
+                <a asp-action="Delete" asp-route-id="@item.VoteItemId">刪除投票項目</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
