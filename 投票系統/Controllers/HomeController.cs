@@ -3,27 +3,42 @@ using System.Diagnostics;
 using VoteOnline.Models;
 using System.Collections.Generic;
 
-namespace VoteOnline.Controllers {
+namespace VoteOnline.Controllers
+{
 
-        public class HomeController : Controller 
-        {
+    public class HomeController : Controller
+    {
         private readonly VoteOnlineContext _context;
-        public HomeController(VoteOnlineContext context) {
+        private readonly RepositoryAdapter _homeRepository;
+        //public HomeController(VoteOnlineContext context)
+        //{
+        //    _context = context;
+        //}
+        public HomeController(RepositoryAdapter homeRepository, VoteOnlineContext context)
+        {
+            _homeRepository = homeRepository;
             _context = context;
         }
 
-        public ActionResult Index () {
-            var Users = _context.Users.ToList();
-            var VoteRecord = _context.VoteRecords.ToList();
-            var VoteItem = _context.VoteItems.ToList();
-            var votecount = _context.VoteItemCounts.ToList();
-            ViewBag.User = Users;
-            ViewBag.VoteCount = votecount;
-            ViewBag.voteitem = VoteItem;
-            ViewBag.VoteRecord = VoteRecord;
-                return View (VoteRecord);
-            }
+        public ActionResult Index()
+        {
+            string message;
+            var users = _homeRepository.GetUsersFromSP(out message);
 
-            
+            ViewBag.Users = users.UserNames;
+            ViewBag.VoteCount = users.VoteItemCounts;
+            ViewBag.Message = message;
+
+            //var Users = _context.Users.ToList();
+            //var VoteRecord = _context.VoteRecords.ToList();
+            //var VoteItem = _context.VoteItems.ToList();
+            //var votecount = _context.VoteItemCounts.ToList();
+            //ViewBag.VoteItem = VoteItem;
+            //ViewBag.User = Users;
+            //ViewBag.VoteRecord = VoteRecord;
+            return View(/*VoteRecord*/);
         }
+
+
     }
+}

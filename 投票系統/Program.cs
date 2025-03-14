@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder (args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews ();
-
+builder.Services.AddScoped<RepositoryAdapter>();
 builder.Services.AddDbContext<VoteOnlineContext> (options =>
 options.UseSqlServer (builder.Configuration.GetConnectionString ("VoteOnlineConnectstring")));
 
@@ -28,6 +28,6 @@ app.UseAuthorization ();
 
 app.MapControllerRoute (
 	name: "default",
-	pattern: "{controller=Voteitems}/{action=Index}/{id?}");
+	pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run ();

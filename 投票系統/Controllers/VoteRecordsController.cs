@@ -12,9 +12,10 @@ namespace VoteOnline.Controllers
     public class VoteRecordsController : Controller
     {
         private readonly VoteOnlineContext _context;
-
-        public VoteRecordsController(VoteOnlineContext context)
+        private readonly RepositoryAdapter _homeRepository;
+        public VoteRecordsController(RepositoryAdapter homeRepository, VoteOnlineContext context)
         {
+            _homeRepository = homeRepository;
             _context = context;
         }
 
@@ -54,19 +55,63 @@ namespace VoteOnline.Controllers
         // POST: VoteRecords/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public async Task<IActionResult> Create(string UserName, List<int> VoteItemId)
+        //{
+        //    if (string.IsNullOrEmpty(UserName) || VoteItemId == null || !VoteItemId.Any())
+        //    {
+        //        ModelState.AddModelError("", "請選擇使用者與至少一個投票項目！");
+        //        return View();
+        //    }
+        //    string message;
+        //    _homeRepository.SubmitVote(UserName, VoteItemId, out message);
+        //    TempData["Message"] = message; // 使用 TempData 來存儲訊息
+
+
+        //    //    foreach (var itemId in VoteItemId)
+        //    //{
+        //    //    var voteRecord = new VoteRecord
+        //    //    {
+        //    //        UserName = UserName,
+        //    //        VoteItemId = itemId
+        //    //    };
+        //    //    _context.VoteRecords.Add(voteRecord);
+        //    //}
+
+        //    //await _context.SaveChangesAsync();
+        //    return RedirectToAction("Index", "Home");
+        //}
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("VoteId,UserName,VoteItemId")] VoteRecord voteRecord)
-        {
-            if (ModelState.IsValid)
+		public async Task<IActionResult> Create(string UserName, List<VoteItemDto> VoteItems)
+		{
+            if (string.IsNullOrEmpty(UserName) || VoteItems == null || !VoteItems.Any())
             {
-                _context.Add(voteRecord);
-                await _context.SaveChangesAsync();
-                return RedirectToAction ("Index", "Home"); ;
+                return Json(new { success = false, message = "請選擇使用者與至少一個投票項目！" });
             }
-            ViewData["VoteItemId"] = new SelectList(_context.VoteItems, "VoteItemId", "ItemName", voteRecord.VoteItemId);
-            return View(voteRecord);
+
+
+			string message;
+            _homeRepository.SubmitVote(UserName, VoteItems, out message);
+
+			string message2;
+			var VotePageData = _homeRepository.GetUsersFromSP(out message2);
+
+            if (!string.IsNullOrEmpty(message2))
+            {
+                message = message2;
+			}
+            var updatedVoteCount = VotePageData.VoteItemCounts.Select(v => new
+            {
+                v.VoteItemId,
+                ItemName = v.ItemName,
+                VoteCount = v.VoteCount
+            }).ToList();
+
+            return Json(new { success = true, message, updatedVoteCount });
         }
+
 
         // GET: VoteRecords/Edit/5
         public async Task<IActionResult> Edit(int? id)

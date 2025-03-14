@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace VoteOnline.Models;
+//namespace VoteOnline.Models;
 
 public partial class VoteItemCount
 {
