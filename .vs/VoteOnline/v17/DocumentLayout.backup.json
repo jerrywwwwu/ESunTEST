@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\controllers\\voterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\controllers\\voterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\controllers\\voteitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\controllers\\voteitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voterecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voterecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\baseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\baseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 250,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Delete.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Delete.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:43:42.082Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Details.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Details.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:43:40.452Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Edit.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Edit.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:43:37.912Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Index.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:42:44.594Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoteRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteRecordsController.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteRecordsController.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteRecordsController.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteRecordsController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwGIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:03:16.194Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Create.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Create.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:42:17.714Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Repository.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Repository.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Repository.cs*",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Repository.cs*",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAlwF8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:37:23.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:38:53.254Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Delete.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Delete.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:42:21.323Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Details.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Details.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:42:23.027Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwEcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T06:03:16.268Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Create.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Create.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:43:43.137Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Edit.cshtml",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Edit.cshtml",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T09:42:27.836Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VoteItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteItemsController.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteItemsController.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteItemsController.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteItemsController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T08:03:12.36Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\User.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\User.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Models\\User.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T03:47:44.118Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VoteRecords.cs",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecords.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecords.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecords.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:13:46.532Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:16:56.36Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VoteRecord.cs",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecord.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecord.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecord.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecord.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:29:00.295Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAASwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:19:36.322Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VoteItem.cs",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteItem.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteItem.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteItem.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T08:11:33.288Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
