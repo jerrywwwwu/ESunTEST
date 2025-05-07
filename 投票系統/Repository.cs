@@ -100,7 +100,7 @@ namespace VoteOnline.Models
 							// 若 `voteId == 0`，表示沒有插入（可能已投過），可根據需求記錄 log
 							if (voteId == 0)
                             {
-                                O_CHR_MESSAGE = ($"使用者 {UserName} 已對項目 {voteItem.ItemName} 投過票");
+                                O_CHR_MESSAGE = ($"使用者 {UserName} 已對項目 {voteItem.ItemName} 投過票了");
                             }
                         }
                     }
