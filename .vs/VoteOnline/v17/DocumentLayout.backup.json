@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\controllers\\voterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\controllers\\voterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\baseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\baseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voterecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voterecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\controllers\\voterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\controllers\\voterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,10 +51,6 @@
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voterecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voterecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -75,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\baseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\baseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -94,7 +94,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Delete.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Delete.cshtml",
@@ -103,11 +103,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:43:42.082Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Details.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Details.cshtml",
@@ -116,11 +117,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:43:40.452Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Edit.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Edit.cshtml",
@@ -129,11 +131,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:43:37.912Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Index.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Index.cshtml",
@@ -142,11 +145,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:42:44.594Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "VoteRecordsController.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteRecordsController.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteRecordsController.cs",
@@ -155,11 +159,12 @@
               "ViewState": "AgIAAFkAAAAAAAAAAAAkwGIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T06:03:16.194Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Create.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Create.cshtml",
@@ -168,7 +173,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:42:17.714Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -176,9 +182,9 @@
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Repository.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Repository.cs",
-              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Repository.cs",
-              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Repository.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAlwF0AAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Repository.cs*",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Repository.cs*",
+              "ViewState": "AgIAAFQAAAAAAAAAAIAwwBEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T06:37:23.697Z",
               "IsPinned": true,
@@ -186,20 +192,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
               "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
               "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:38:53.254Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Delete.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Delete.cshtml",
@@ -208,11 +215,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:42:21.323Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Details.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Details.cshtml",
@@ -221,11 +229,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:42:23.027Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\Home\\Index.cshtml",
@@ -234,11 +243,12 @@
               "ViewState": "AgIAAEMAAAAAAAAAAAAcwEcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-10T06:03:16.268Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Create.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Create.cshtml",
@@ -247,11 +257,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:43:43.137Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Edit.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Edit.cshtml",
@@ -260,11 +271,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:42:27.836Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "VoteItemsController.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteItemsController.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteItemsController.cs",
@@ -273,11 +285,12 @@
               "ViewState": "AgIAADcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T08:03:12.36Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\User.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\User.cs",
@@ -286,11 +299,12 @@
               "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T03:47:44.118Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "VoteRecords.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecords.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecords.cs",
@@ -299,37 +313,40 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T02:13:46.532Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 1,
               "Title": "BaseAdapter.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
               "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
               "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T06:16:56.36Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "VoteRecord.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecord.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecord.cs",
               "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecord.cs",
               "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecord.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAkAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T05:29:00.295Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Controllers\\HomeController.cs",
@@ -338,7 +355,8 @@
               "ViewState": "AgIAABEAAAAAAAAAAAASwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T05:19:36.322Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -351,7 +369,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAgwA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T08:11:33.288Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -384,10 +403,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Bookmark",
