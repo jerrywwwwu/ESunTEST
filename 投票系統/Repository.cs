@@ -1,21 +1,31 @@
-﻿using Microsoft.Data.SqlClient;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Data.SqlClient;
 using System.Data;
+using VoteOnline.Common;
+using VoteOnline.Controllers;
 using VoteOnline.Models;
 
 namespace VoteOnline.Models
 {
     public class RepositoryAdapter : BaseAdapter
     {
-        public RepositoryAdapter(IConfiguration configuration) : base(configuration) { }
+		private readonly ILogger<RepositoryAdapter> _logger;
+        public RepositoryAdapter(IConfiguration configuration, ILogger<RepositoryAdapter> logger) : base(configuration) 
+        {
+			_logger = logger;
+		}
 
-        public GetVotePage GetUsersFromSP(out string O_CHR_MESSAGE)
+
+		public GetVotePage GetUsersFromSP(out string O_CHR_MESSAGE)
         {
             GetVotePage votePage = new(); // 單一物件
             O_CHR_MESSAGE = "";
 
             try
             {
-                using SqlConnection conn = new(_connectionString);
+                _logger.LogInformation("這是Serilog紀錄訊息");
+
+				using SqlConnection conn = new(_connectionString);
                 conn.Open();
                 using SqlCommand cmd = new("GETVOTEPAGE", conn);
                 cmd.CommandType = CommandType.StoredProcedure;

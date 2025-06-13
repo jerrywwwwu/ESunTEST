@@ -60,6 +60,10 @@
               "target": "Package",
               "version": "[6.0.21, )"
             },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
             "Microsoft.TypeScript.MSBuild": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -69,6 +73,30 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
