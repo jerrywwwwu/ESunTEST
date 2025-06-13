@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\baseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\baseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\common\\baseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\common\\baseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\controllers\\voteitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\controllers\\voteitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voterecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voterecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\controllers\\voterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\controllers\\voterecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voterecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,32 +67,8 @@
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\controllers\\voteitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\controllers\\voteitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -67,20 +79,12 @@
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voteitems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\views\\voterecords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|c:\\users\\ils\\\u684C\u9762\\esuntest\\\u6295\u7968\u7CFB\u7D71\\models\\voteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A010B4AB-7EE0-4AE8-8EBE-EE275DA6ADED}|\u6295\u7968\u7CFB\u7D71\\VoteOnline.csproj|solutionrelative:\u6295\u7968\u7CFB\u7D71\\models\\voteitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,11 +94,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 250,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 27,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Delete.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Delete.cshtml",
@@ -108,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Details.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Details.cshtml",
@@ -122,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Edit.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Edit.cshtml",
@@ -136,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Index.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Index.cshtml",
@@ -150,13 +154,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "VoteRecordsController.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteRecordsController.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteRecordsController.cs",
               "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteRecordsController.cs",
               "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteRecordsController.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAkwGIAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-10T06:03:16.194Z",
               "IsPinned": true,
@@ -164,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Create.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Create.cshtml",
@@ -178,13 +182,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Repository.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Repository.cs",
-              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Repository.cs*",
-              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Repository.cs*",
-              "ViewState": "AgIAAFQAAAAAAAAAAIAwwBEAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Repository.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Repository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABBwAwAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T06:37:23.697Z",
               "IsPinned": true,
@@ -192,13 +196,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
               "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
               "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-13T09:38:53.254Z",
               "IsPinned": true,
@@ -206,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Delete.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Delete.cshtml",
@@ -220,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Details.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Details.cshtml",
@@ -234,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\Home\\Index.cshtml",
@@ -248,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Create.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteRecords\\Create.cshtml",
@@ -262,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Edit.cshtml",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Views\\VoteItems\\Edit.cshtml",
@@ -276,13 +280,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "VoteItemsController.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteItemsController.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteItemsController.cs",
               "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteItemsController.cs",
               "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Controllers\\VoteItemsController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T08:03:12.36Z",
               "IsPinned": true,
@@ -290,21 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\User.cs",
-              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\User.cs",
-              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Models\\User.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T03:47:44.118Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "VoteRecords.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecords.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecords.cs",
@@ -318,13 +308,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BaseAdapter.cs",
-              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
-              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
-              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
-              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Models\\BaseAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Common\\BaseAdapter.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Common\\BaseAdapter.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Common\\BaseAdapter.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Common\\BaseAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T06:16:56.36Z",
               "IsPinned": true,
@@ -332,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "VoteRecord.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecord.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteRecord.cs",
@@ -360,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 10,
               "Title": "VoteItem.cs",
               "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Models\\VoteItem.cs",
               "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Models\\VoteItem.cs",
@@ -375,10 +365,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             },
             {
               "$type": "Bookmark",
@@ -405,8 +391,30 @@
               "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "nlog.config",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\nlog.config",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\nlog.config",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\nlog.config",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\nlog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-13T03:21:38.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Program.cs",
+              "RelativeDocumentMoniker": "\u6295\u7968\u7CFB\u7D71\\Program.cs",
+              "ToolTip": "C:\\Users\\ils\\\u684C\u9762\\ESunTEST\\\u6295\u7968\u7CFB\u7D71\\Program.cs",
+              "RelativeToolTip": "\u6295\u7968\u7CFB\u7D71\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:22:39.414Z",
+              "EditorCaption": ""
             }
           ]
         }
