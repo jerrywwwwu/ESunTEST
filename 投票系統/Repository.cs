@@ -23,9 +23,11 @@ namespace VoteOnline.Models
 
             try
             {
-                _logger.LogInformation("這是Serilog紀錄訊息");
+                _logger.LogInformation("這是Ilog紀錄訊息");
+                //_logger.LogInformation("這是Serilog紀錄訊息");
 
-				using SqlConnection conn = new(_connectionString);
+
+                using SqlConnection conn = new(_connectionString);
                 conn.Open();
                 using SqlCommand cmd = new("GETVOTEPAGE", conn);
                 cmd.CommandType = CommandType.StoredProcedure;
