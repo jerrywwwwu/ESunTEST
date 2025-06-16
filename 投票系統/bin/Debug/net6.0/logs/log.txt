@@ -1,0 +1,5 @@
+2025-06-13 17:26:46.9698|INFO|VoteOnline.Models.RepositoryAdapter|這是Serilog紀錄訊息 
+2025-06-13 17:32:41.3949|INFO|VoteOnline.Models.RepositoryAdapter|這是Serilog紀錄訊息 
+2025-06-13 17:32:43.8377|INFO|VoteOnline.Models.RepositoryAdapter|這是Serilog紀錄訊息 
+2025-06-16 13:29:52.2775|INFO|VoteOnline.Models.RepositoryAdapter|這是Serilog紀錄訊息 
+2025-06-16 13:39:43.5043|INFO|VoteOnline.Models.RepositoryAdapter|這是Serilog紀錄訊息 

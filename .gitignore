@@ -2,5 +2,7 @@
 # 這個 .gitignore 檔案由 Microsoft(R) Visual Studio 自動建立。
 ################################################################################
 
-/.vs/VoteOnline/FileContentIndex
-/投票系統/bin/Debug/net6.0
+.vs
+# /.vs/VoteOnline/FileContentIndex
+# /投票系統/bin/Debug/net6.0
+/投票系統/obj
