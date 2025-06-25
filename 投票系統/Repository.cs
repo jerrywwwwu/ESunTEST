@@ -1,25 +1,36 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using System.Data;
+using System.Diagnostics;
 using VoteOnline.Common;
 using VoteOnline.Controllers;
 using VoteOnline.Models;
+using static VoteOnline.Models.RepositoryAdapter;
 
 namespace VoteOnline.Models
 {
-    public class RepositoryAdapter : BaseAdapter
+    public interface IRepositoryAdapter
+	{
+		Task<GetVotePage> GetUsersFromSP ();
+		Task<string> SubmitVote(string UserName, List<VoteItemDto> VoteItems);
+
+	}
+    public interface ITEST//介面注入測試
+	{
+        void TESTFun();
+	}
+
+	public class RepositoryAdapter : BaseAdapter,IRepositoryAdapter
     {
-		private readonly ILogger<RepositoryAdapter> _logger;
-        public RepositoryAdapter(IConfiguration configuration, ILogger<RepositoryAdapter> logger) : base(configuration) 
+		private readonly ILogger<IRepositoryAdapter> _logger;
+        public RepositoryAdapter(IConfiguration configuration, ILogger<IRepositoryAdapter> logger) : base(configuration) 
         {
 			_logger = logger;
 		}
 
-
-		public GetVotePage GetUsersFromSP(out string O_CHR_MESSAGE)
-        {
-            GetVotePage votePage = new(); // 單一物件
-            O_CHR_MESSAGE = "";
+		public async Task<GetVotePage> GetUsersFromSP()
+		{
+			var votePage = new GetVotePage();
 
             try
             {
@@ -28,23 +39,23 @@ namespace VoteOnline.Models
 
 
                 using SqlConnection conn = new(_connectionString);
-                conn.Open();
+                await conn.OpenAsync();
                 using SqlCommand cmd = new("GETVOTEPAGE", conn);
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.Add("@O_CHR_MESSAGE", SqlDbType.NVarChar, 200).Direction = ParameterDirection.Output;
 
-                using (SqlDataReader reader = cmd.ExecuteReader())
+                using (SqlDataReader reader = await cmd.ExecuteReaderAsync())
                 {
                     // 第一個結果集：讀取所有 UserName
-                    while (reader.Read())
+                    while (await reader.ReadAsync())
                     {
                         votePage.UserNames.Add(reader["UserName"].ToString());
                     }
 
                     // 移動到第二個結果集
-                    if (reader.NextResult())
+                    if (await reader.NextResultAsync())
                     {
-                        while (reader.Read())
+                        while (await reader.ReadAsync())
                         {
                             votePage.VoteItemCounts.Add(new VoteItemCount
                             {
@@ -57,23 +68,23 @@ namespace VoteOnline.Models
                 }
 
                 // 取得 OUTPUT 參數的值
-                O_CHR_MESSAGE = cmd.Parameters["@O_CHR_MESSAGE"].Value.ToString();
+                votePage.Message = cmd.Parameters["@O_CHR_MESSAGE"].Value.ToString();
             }
             catch (Exception ex)
             {
-                O_CHR_MESSAGE = $"錯誤: {ex.Message}";
+				votePage.Message = $"錯誤: {ex.Message}";
             }
 
             return votePage;
         }
 
-        public void SubmitVote(string UserName, List<VoteItemDto> VoteItems, out string O_CHR_MESSAGE) {
-            O_CHR_MESSAGE = "";
+        public async Task<string>SubmitVote(string UserName, List<VoteItemDto> VoteItems) {
+            string O_CHR_MESSAGE = "";
             try
             {
                 using SqlConnection conn = new(_connectionString);
-                conn.Open();
-                foreach (var voteItem in VoteItems)
+				await conn.OpenAsync();
+				foreach (var voteItem in VoteItems)
                 {
                     using SqlCommand cmd = new("INSERTVOTERECORD", conn);
                     cmd.CommandType = CommandType.StoredProcedure;
@@ -97,23 +108,41 @@ namespace VoteOnline.Models
                     //cmd.Parameters.Add(messageParam);
 
                     // 執行 Stored Procedure
-                    cmd.ExecuteNonQuery();
+                    await cmd.ExecuteNonQueryAsync();
 
                     // 取得 OUTPUT 參數的值
                     int voteId = (voteIdParam.Value != DBNull.Value) ? Convert.ToInt32(voteIdParam.Value) : 0;
-                    O_CHR_MESSAGE = cmd.Parameters["@O_CHR_MESSAGE"].Value.ToString();
+                    O_CHR_MESSAGE = cmd.Parameters["@O_CHR_MESSAGE"].Value.ToString()??"";
 
                     // 若 `voteId == 0`，表示沒有插入（可能已投過），可根據需求記錄 log
                     if (voteId == 0)
                     {
                         O_CHR_MESSAGE = ($"使用者 {UserName} 已對項目 {voteItem.ItemName} 投過票");
                     }
+                    
                 }
-            }
+				return O_CHR_MESSAGE;
+			}
             catch (Exception ex)
             {
 				O_CHR_MESSAGE = $"錯誤: {ex.Message}";
-            }
+				return O_CHR_MESSAGE;
+			}
         }
     }
+
+    public partial class TEST: ITEST//介面注入測試(在Homecontroll實利)
+	{ 
+       public void TESTFun() 
+       {
+            Debug.WriteLine("test");
+       }
+    }
+    public class TEST2
+    {
+		public void TESTFun2()
+		{
+			Debug.WriteLine("test2");
+		}
+	}
 }

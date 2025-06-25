@@ -10,7 +10,9 @@ var builder = WebApplication.CreateBuilder (args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddScoped<RepositoryAdapter>();
+builder.Services.AddScoped<IRepositoryAdapter, RepositoryAdapter>();
+builder.Services.AddScoped<ITEST, TEST>();//¤¶­±µù¥U´ú¸Õ
+builder.Services.AddScoped<TEST2>();//classµù¥U´ú¸Õ
 builder.Services.AddDbContext<VoteOnlineContext>(options =>
 options.UseSqlServer(builder.Configuration.GetConnectionString("VoteOnlineConnectstring")));
 

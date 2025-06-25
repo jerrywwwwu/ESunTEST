@@ -21,6 +21,7 @@ public class GetVotePage
 {
     public List<string> UserNames { get; set; } = new List<string>(); // 多個 UserName
     public List<VoteItemCount> VoteItemCounts { get; set; } = new List<VoteItemCount>(); // 多個投票結果
+	public string Message { get; set; } = string.Empty;
 }
 
 //public class VoteRequestDto
