@@ -12,8 +12,8 @@ namespace VoteOnline.Controllers
     public class VoteRecordsController : Controller
     {
         private readonly VoteOnlineContext _context;
-        private readonly RepositoryAdapter _homeRepository;
-        public VoteRecordsController(RepositoryAdapter homeRepository, VoteOnlineContext context)
+        private readonly IRepositoryAdapter _homeRepository;
+        public VoteRecordsController(IRepositoryAdapter homeRepository, VoteOnlineContext context)
         {
             _homeRepository = homeRepository;
             _context = context;
@@ -92,11 +92,11 @@ namespace VoteOnline.Controllers
             }
 
 
-			string message;
-            _homeRepository.SubmitVote(UserName, VoteItems, out message);
+			string message = await _homeRepository.SubmitVote(UserName, VoteItems);
+            
 
-			string message2;
-			var VotePageData = _homeRepository.GetUsersFromSP(out message2);
+			var VotePageData = await _homeRepository.GetUsersFromSP();
+			string message2 = VotePageData.Message;
 
             if (!string.IsNullOrEmpty(message2))
             {
@@ -187,7 +187,7 @@ namespace VoteOnline.Controllers
 
         // POST: VoteRecords/Delete/5
         [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
+        //[ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             if (_context.VoteRecords == null)
