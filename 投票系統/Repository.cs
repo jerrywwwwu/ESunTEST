@@ -135,7 +135,7 @@ namespace VoteOnline.Models
 	{ 
        public void TESTFun() 
        {
-            Debug.WriteLine("test");
+            Debug.WriteLine("tests");
        }
     }
     public class TEST2
